@@ -1,4 +1,5 @@
-![Banner][C:\Users\root\Downloads\Red & Black Geometric Gamer Youtube Banner.png]
+![Banner](C:\Users\root\Downloads\Red & Black Geometric Gamer Youtube Banner.png)
+
 <h3 align="center">Passionate Developer |Curious Learner| Exploring AI & Full-Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabnamshaikh2614&label=Profile%20views&color=0e75b6&style=flat" alt="shabnamshaikh2614" /> </p>
