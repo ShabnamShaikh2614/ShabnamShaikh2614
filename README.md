@@ -1,4 +1,3 @@
-![Banner](C:\Users\root\Downloads\Red & Black Geometric Gamer Youtube Banner.png)
 
 <h3 align="center">Passionate Developer |Curious Learner| Exploring AI & Full-Stack</h3>
 
